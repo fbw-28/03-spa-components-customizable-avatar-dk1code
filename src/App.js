@@ -1,13 +1,13 @@
+import React from "react";
 
-import React from 'react';
+import Avatar from "./Avatar";
 
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
+      <Avatar size="xl" shape="circle" />
     </div>
   );
 }
-
 
 export default App;
