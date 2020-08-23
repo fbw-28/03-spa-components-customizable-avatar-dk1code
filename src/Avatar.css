@@ -2,22 +2,26 @@ span {
     font-weight: bolder;
 }
 
-.s {
+.card {
+    width: 33%;
+}
+
+.S {
     width: 30px;
     height: 30px;
 }
 
-.m {
+.M {
     width: 60px;
     height: 60px;
 }
 
-.l {
+.L {
     width: 120px;
     height: 120px;
 }
 
-.xl {
+.XL {
     width: 200px;
     height: 200px;
 }
